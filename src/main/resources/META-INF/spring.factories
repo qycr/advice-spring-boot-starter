@@ -1,0 +1,4 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.sky.solar.boot.framework.autoconfigure.AdviceAutoConfiguration
+org.springframework.context.ApplicationContextInitializer=\
+com.sky.solar.boot.framework.autoconfigure.AdviceApplicationContextInitializer
