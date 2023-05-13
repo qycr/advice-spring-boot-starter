@@ -1,2 +1,0 @@
-org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.qycr.framework.spring.boot.autoconfigure.AdviceExecutionAutoConfiguration
-org.springframework.context.ApplicationContextInitializer=com.qycr.framework.spring.boot.autoconfigure.AdviceExecutionApplicationInitializer
